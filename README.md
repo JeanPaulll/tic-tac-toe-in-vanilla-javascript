@@ -4,6 +4,8 @@ Este é um simples jogo da velha desenvolvido em JavaScript Vanilla. O jogo é j
 
 ## Como jogar
 
+Para visualizar: [Jogar](https://jeanpaulll.github.io/tic-tac-toe-in-vanilla-javascript/)
+
 1. Abra o arquivo `index.html` no seu navegador preferido.
 2. O tabuleiro do jogo da velha será exibido na tela.
 3. O jogador 1 (X) começa jogando. Clique em uma célula vazia para marcar com o símbolo "X".
