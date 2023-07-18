@@ -5,8 +5,10 @@ let buttons = document.querySelectorAll("#buttons-container");
 let messageContainer = document.querySelector("#message");
 let messageText = document.querySelector("#message p");
 let secondPlayer;
-
 /**
+ * @author Jean Paul <jeanpaulwebb@gmail.com>
+ * @description Página Incial Jogo da Velha
+ * @date 18/06/2023
  * @description
  * Contador de Jogadas
  */
