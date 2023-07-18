@@ -35,3 +35,13 @@ for (let i = 0; i < buttons.length; i++) {
     console.log("teste", this);
   });
 }
+
+/**
+ * @description
+ * Definir o próximo jogador
+ */
+function checkEl(player1, player2) {
+  if (player1 == player2) el = x;
+  else el = o;
+  return el;
+}
